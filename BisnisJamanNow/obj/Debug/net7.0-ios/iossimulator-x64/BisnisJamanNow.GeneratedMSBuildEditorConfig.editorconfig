@@ -1,0 +1,66 @@
+is_global = true
+build_property.RefitInternalNamespace = BisnisJamanNow
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BisnisJamanNow
+build_property.ProjectDir = C:\Users\budip\source\repos\WpToAppsSolution\BisnisJamanNow\
+
+[C:/Users/budip/source/repos/WpToAppsSolution/BisnisJamanNow/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BisnisJamanNow.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/budip/source/repos/WpToAppsSolution/BisnisJamanNow/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BisnisJamanNow.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/budip/source/repos/WpToAppsSolution/BisnisJamanNow/Cards/BoxCard.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BisnisJamanNow.Cards.BoxCard.xaml
+build_metadata.AdditionalFiles.TargetPath = Cards\BoxCard.xaml
+build_metadata.AdditionalFiles.RelativePath = Cards\BoxCard.xaml
+
+[C:/Users/budip/source/repos/WpToAppsSolution/BisnisJamanNow/Cards/GoogleNewsCard.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BisnisJamanNow.Cards.GoogleNewsCard.xaml
+build_metadata.AdditionalFiles.TargetPath = Cards\GoogleNewsCard.xaml
+build_metadata.AdditionalFiles.RelativePath = Cards\GoogleNewsCard.xaml
+
+[C:/Users/budip/source/repos/WpToAppsSolution/BisnisJamanNow/Cards/LeffImageCard.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BisnisJamanNow.Cards.LeffImageCard.xaml
+build_metadata.AdditionalFiles.TargetPath = Cards\LeffImageCard.xaml
+build_metadata.AdditionalFiles.RelativePath = Cards\LeffImageCard.xaml
+
+[C:/Users/budip/source/repos/WpToAppsSolution/BisnisJamanNow/Cards/RightImageCard.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BisnisJamanNow.Cards.RightImageCard.xaml
+build_metadata.AdditionalFiles.TargetPath = Cards\RightImageCard.xaml
+build_metadata.AdditionalFiles.RelativePath = Cards\RightImageCard.xaml
+
+[C:/Users/budip/source/repos/WpToAppsSolution/BisnisJamanNow/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BisnisJamanNow.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/budip/source/repos/WpToAppsSolution/BisnisJamanNow/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BisnisJamanNow.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/budip/source/repos/WpToAppsSolution/BisnisJamanNow/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BisnisJamanNow.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

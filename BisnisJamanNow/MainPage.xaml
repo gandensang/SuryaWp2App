@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:control="clr-namespace:BisnisJamanNow.Cards"
+             xmlns:vm="clr-namespace:BisnisJamanNow"
+             x:DataType="vm:MainPageVM"
+             Title="Bisnis Jaman Now"
+             x:Class="BisnisJamanNow.MainPage">
+
+    <ContentPage.Content>
+        <StackLayout>
+            <!--<control:BoxCard Judul="Ini Judul Di ganti"
+                             Tanggal="28-09-1982"
+                             Deskripsi="Ini adalah deskripsi yang baru bos"
+                             ImageSource="https://www.suryaguna.com/wp-content/uploads/2021/03/POMPA-JET-1000-SURYAGUNA-085646415014-6-300x300.jpg"/>-->
+            <!--https://www.suryaguna.com/wp-content/uploads/2021/03/POMPA-JET-1000-SURYAGUNA-085646415014-6-300x300.jpg-->
+            <control:GoogleNewsCard/>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

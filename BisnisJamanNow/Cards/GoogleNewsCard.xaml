@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Frame xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BisnisJamanNow.Cards.GoogleNewsCard"
+       HasShadow="True"
+       HeightRequest="350"
+       Margin="0"
+       Padding="0"
+       CornerRadius="0">
+    <Grid RowDefinitions="Auto,*" Padding="10">
+        <Frame Padding="0"
+               Margin="0">
+            <Image Source="https://www.suryaguna.com/wp-content/uploads/2021/03/POMPA-JET-1000-SURYAGUNA-085646415014-6-300x300.jpg"
+                   Aspect="Fill"
+                   HeightRequest="250"/>
+        </Frame>
+        <StackLayout Grid.Row="1">
+            <Label Text="Janji anis perangi judi online, Singgung demo SDCB Era Order baru "
+                   VerticalOptions="StartAndExpand"
+                   FontAttributes="Bold"
+                   FontSize="16"
+                   Margin="10,5,10,0"/>
+            <Label Text="29 Sep 1982"
+                   Margin="10,5"/>
+        </StackLayout>
+    </Grid>
+</Frame>

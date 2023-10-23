@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Frame xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       x:Class="BisnisJamanNow.Cards.BoxCard"
+       BorderColor="{StaticResource Gray200}"
+       CornerRadius="10"
+       HasShadow="True"
+       Padding="0"
+       Margin="10">
+    <Grid RowDefinitions="*,Auto">
+        <Image x:Name="imageLbl" 
+               HeightRequest="250"
+               Aspect="Fill" />
+
+        <StackLayout Grid.Row="1">
+            <Label x:Name="JudulLabel"
+               FontSize="18" 
+               FontFamily="OpenSansSemibold" 
+               Margin="10,5,10,0"/>
+            <Label x:Name="TglPost" 
+                   FontSize="12" 
+                   Margin="10,0"/>
+            <Label x:Name="DeskripsiLbl"
+                   FontSize="16" 
+                   Margin="10,0,10,10" />
+
+        </StackLayout>
+
+
+    </Grid>
+
+</Frame>
